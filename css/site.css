@@ -1,3 +1,8 @@
 .centrage{
   text-align: center;
 }
+.copyright{
+  font-family: monospace;
+  font-style: italic;
+  font-size: small;
+}
